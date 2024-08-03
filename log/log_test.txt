@@ -1,0 +1,6 @@
+Currently using GPU 0
+Model size: 23.70474M
+Loading checkpoint from './log/FWreID_ep50.pth.tar'
+Extracted features for query set, obtained 184-by-2048 matrix
+Extracted features for gallery set, obtained 1512-by-2048 matrix
+==> BatchTime(s)/BatchSize(img): 0.012/24
